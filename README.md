@@ -1,2 +1,3 @@
 # DSA
-DSA for beginners with javascript!
+
+Data structures and Algorithms for beginners with javascript!
